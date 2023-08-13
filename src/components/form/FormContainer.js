@@ -9,10 +9,11 @@ const FormContainer = () => {
       direction: "rtl",
     },
     h2: {
-      fontSize: 35,
+      fontSize: 29,
       fontWeight: 700,
       color: "#4D4D4D",
       marginRight: 10,
+      marginBottom: 5,
     },
     img: {
       width: 106,
